@@ -1,4 +1,3 @@
-text
 # SOL-Only Trading Bot
 
 A Prometheus-instrumented Solana trading bot that continuously swaps SOL ↔ USDC based on multi-timeframe RSI (Relative Strength Index) and divergence signals.  
