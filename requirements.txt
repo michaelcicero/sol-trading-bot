@@ -1,0 +1,7 @@
+aiohttp
+numpy
+python-dotenv
+solders
+solana
+spl-token
+prometheus-client
