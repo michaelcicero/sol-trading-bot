@@ -1,5 +1,0 @@
-# prometheus.yml
-scrape_configs:
-  - job_name: 'solana_bot'
-    static_configs:
-      - targets: ['localhost:8000']

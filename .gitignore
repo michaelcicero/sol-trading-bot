@@ -1,8 +1,8 @@
-# Python
+# Python bytecode
 __pycache__/
 *.pyc
 
-# Environment
+# Environment file
 .env
 
 # Logs
