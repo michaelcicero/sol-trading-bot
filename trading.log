@@ -1,0 +1,31 @@
+2025-05-12 18:40:27,775 - INFO - Metrics server started on port 8000
+2025-05-12 18:40:38,255 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7776601cdfd0>
+2025-05-12 18:45:44,631 - INFO - Metrics server started on port 8000
+2025-05-12 18:45:44,926 - CRITICAL - WebSocket subscription failed: Method not found
+2025-05-12 18:45:55,046 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x74f81c6d1fd0>
+2025-05-12 18:47:11,167 - INFO - Metrics server started on port 8000
+2025-05-12 18:47:11,435 - CRITICAL - WebSocket subscription failed: Method not found
+2025-05-12 18:47:21,536 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x70b4926c5fd0>
+2025-05-12 18:54:07,351 - INFO - Metrics server started on port 8000
+2025-05-12 18:54:07,661 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7c2f7b4d1fd0>
+2025-05-12 18:55:10,291 - INFO - Metrics server started on port 8000
+2025-05-12 18:55:10,595 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7950685c5fd0>
+2025-05-12 18:59:41,057 - INFO - Metrics server started on port 8000
+2025-05-12 18:59:41,203 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7c113e9cdfd0>
+2025-05-12 18:59:50,465 - INFO - Metrics server started on port 8000
+2025-05-12 18:59:50,556 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x732329bc1fd0>
+2025-05-12 19:00:40,772 - INFO - Metrics server started on port 8000
+2025-05-12 19:00:41,226 - CRITICAL - WebSocket subscription failed: Method not found
+2025-05-12 19:00:51,355 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7ee6c85c5fd0>
+2025-05-12 19:04:30,239 - INFO - Metrics server started on port 8000
+2025-05-12 19:04:30,541 - CRITICAL - WebSocket subscription failed: Method not found
+2025-05-12 19:04:40,689 - ERROR - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x78fe47dc5fd0>
